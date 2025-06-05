@@ -118,7 +118,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ## 👥 Author
 
-- **Parmesh Pawar** - *Initial work* - [YourGitHub](https://github.com/parmesh303)
+- **Parmesh Pawar** - *Initial work* - [GitHub](https://github.com/parmesh303)
 
 ## 🔄 Updates
 
