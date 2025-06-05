@@ -74,7 +74,7 @@ This repository contains implementations of both traditional design patterns and
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/patterns.git
+git clone https://github.com/parmesh303/DesignPatterns.git
 
 # Build project
 mvn clean install
